@@ -1,4 +1,5 @@
 > # do400-git-lab
 >
-> This is an example project repository for the DO400 course.
+Labortioro  Integrating Source Code with Version Control
 > EOF
+linea de prueba.
